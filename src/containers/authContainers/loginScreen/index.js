@@ -1,5 +1,5 @@
 import React from 'react';
-import {View} from 'react-native';
+import {Image, View} from 'react-native';
 import Text from '@components/common/Text';
 import R from '@components/utils/R';
 

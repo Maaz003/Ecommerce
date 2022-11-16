@@ -27,6 +27,7 @@ export const SIZES = {
   body6: R.unit.fontSize(9, 0.3),
   small: R.unit.fontSize(8, 0.3),
 };
+
 export const FONTVARIANTS = {
   extraLargeTitle: {
     fontSize: SIZES.extraLargeTitle,
